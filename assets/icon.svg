@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="128" x2="64" y2="-5.748007e-009">
+    <stop  offset="0" style="stop-color:#563E7D"/>
+    <stop  offset="1" style="stop-color:#6F5499"/>
+</linearGradient>
+<rect fill="url(#SVGID_1_)" width="128" height="128"/>
+<g>
+    <path fill="#FFFFFF" d="M38.8,32.6h22.8c5.5,0,12.9,0,16.6,2.3c4.1,2.5,7.4,6.9,7.4,13.1c0,6.7-3.4,11.7-9.3,14.1v0.2
+        c7.7,1.7,12,7.4,12,15.1c0,9.2-6.7,18-19.1,18H38.8V32.6z M47.1,59.6h16.7c9.5,0,13.4-3.3,13.4-10c0-8.8-6.1-9.9-13.4-9.9H47.1
+        V59.6z M47.1,88.4h20.9c7.3,0,11.8-4.3,11.8-11.3c0-8.2-6.6-10.5-13.6-10.5H47.1V88.4z"/>
+</g>
+<g>
+    <path fill="#FFFFFF" d="M5.1,11.1H39v3.2H9.2v99.1H39v3.2H5.1V11.1z"/>
+    <path fill="#FFFFFF" d="M89.1,113.3h29.8V14.3H89.1v-3.2H123v105.4H89.1V113.3z"/>
+</g>
+</svg>
